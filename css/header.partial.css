@@ -1,0 +1,6 @@
+.header__title {
+    color: var(--title-color); /* колір у змінній */
+}
+.header__title-marks {
+    color: darkorange;
+}
